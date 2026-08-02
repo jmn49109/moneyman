@@ -36,7 +36,7 @@ jobs:
 
       - name: Run scraper
         run: >
-          docker run --rm 
+          docker run --pull always --rm 
           -e MONEYMAN_CONFIG 
           -e DEBUG 
           -e TZ
