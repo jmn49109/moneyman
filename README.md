@@ -1,7 +1,7 @@
 # moneyman
 
 Automatically save transactions from all major Israeli banks and credit card companies, using GitHub Actions (or a self-hosted Docker image).
-
+ 
 Powered by [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers).
 
 ## Why?
