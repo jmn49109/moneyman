@@ -5,7 +5,7 @@ on:
     # Runs 30 minutes after the main run (13:35 and 01:35 Israel Time)
     - cron: "35 10,22 * * *"
   workflow_dispatch:
-
+# edit
 jobs:
   scrape:  
     runs-on: ubuntu-latest
