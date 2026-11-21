@@ -3,7 +3,7 @@
 Automatically save transactions from all major Israeli banks and credit card companies, using GitHub Actions (or a self-hosted Docker image).
  
 Powered by [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers).
-
+  
 ## Why?
 
 Having all your data in one place lets you view all of your expenses in a beautiful dashboard like [Looker Studio](https://lookerstudio.google.com), [Azure Data Explorer dashboards](https://docs.microsoft.com/en-us/azure/data-explorer/azure-data-explorer-dashboards), [Microsoft Power BI](https://powerbi.microsoft.com/) and [YNAB](https://www.ynab.com/).
