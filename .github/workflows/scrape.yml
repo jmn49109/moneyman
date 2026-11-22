@@ -5,7 +5,7 @@ on:
     inputs:
       containerTag:
         default: "latest"
-        required: false
+        required: true
         description: "Container tag to use (e.g., 'latest', 'pr-123' for PR #123)"
       sendNewConfigToTg:
         description: "Send current config as config.txt via Telegram (true/false)"
